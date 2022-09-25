@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Altriabot.Saber)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altriabot&hide=issues&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altriabot&hide=issues&show_icons=true&theme=buefy)
 
 <!--
 **Altriabot/Saber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
